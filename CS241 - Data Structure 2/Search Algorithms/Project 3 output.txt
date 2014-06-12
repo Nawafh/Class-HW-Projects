@@ -1,0 +1,68 @@
+
+C:\Users\DarklvlAge\Desktop\Cs241>javac Search.java
+
+C:\Users\DarklvlAge\Desktop\Cs241>java Search
+(Linear Search) Find: 15 array index = 2
+# of statements excecuted: 5
+
+(Linear Search) Find: 4455 array index = 527
+# of statements excecuted: 530
+
+(Linear Search) Find: 8191 array index = 999
+# of statements excecuted: 1002
+
+(Linear Search) Find: 4000 array index = -1
+# of statements excecuted: 1003
+
+(Linear Search) Find: 50 array index = -1
+# of statements excecuted: 1003
+
+(Binary Search) Find: 15 array index = 2
+# of statements excecuted: 2
+
+(Binary Search) Find: 4455 array index = 527
+# of statements excecuted: 527
+
+(Binary Search) Find: 8191 array index = 999
+# of statements excecuted: 999
+
+(Binary Search) Find: 4000 array index = -1
+# of statements excecuted: 33
+
+(Binary Search) Find: 50 array index = -1
+# of statements excecuted: 29
+
+(Interpolation Search) Find: 15 array index = 2
+# of statements excecuted: 32
+
+(Interpolation Search) Find: 4455 array index = 527
+# of statements excecuted: 34
+
+(Interpolation Search) Find: 8191 array index = 999
+# of statements excecuted: 10
+
+(Interpolation Search) Find: 4000 array index = -1
+# of statements excecuted: 32
+
+(Interpolation Search) Find: 50 array index = -1
+# of statements excecuted: 18
+
+(Hashing) Find: 15 bucket index: 572
+# of statements excecuted: 19
+
+(Hashing) Find: 4455 bucket index: 800
+# of statements excecuted: 3
+
+(Hashing) Find: 8191 bucket index: 201
+# of statements excecuted: 3
+
+(Hashing) Find: 4000 bucket index = -1
+# of statements excecuted: 1
+
+(Hashing) Find: 50 bucket index = -1
+# of statements excecuted: 1
+
+Performance Metrics
+                 O(n)   O(Log(n))    O(Log(Log(n)))     O(1)
+When n = 1000    1000     9.966         3.317            3
+C:\Users\DarklvlAge\Desktop\Cs241>
